@@ -13,5 +13,5 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-and-css-site-with-flexbox-FKeXDb1_j)
+- Live Site URL: [Add live site URL here](https://frontendmentoriochallenge-profile-card.netlify.app/)
